@@ -75,13 +75,13 @@ gsap.to("#wrapper",{
   ease:Expo.easeInOut,
 
 })
-var cursor = document.querySelector("#cursor");
+// var cursor = document.querySelector("#cursor");
 
-document.querySelector("#main").addEventListener("mousemove",function(dets){
-  cursor.style.left = `${dets.pageX+15}`+"px";
-  cursor.style.top = `${dets.pageY+15}`+"px";
+// document.querySelector("#main").addEventListener("mousemove",function(dets){
+//   cursor.style.left = `${dets.pageX+15}`+"px";
+//   cursor.style.top = `${dets.pageY+15}`+"px";
 
-})
+// })
 
 const canvas = document.querySelector("canvas");
 const context = canvas.getContext("2d");
