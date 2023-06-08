@@ -44,7 +44,7 @@ background-color:  rgb(29, 26, 26);
 
 
 }
-/* #cursor{
+#cursor{
     height: 15px;
     width: 15px;
     position: absolute;
@@ -52,7 +52,7 @@ background-color:  rgb(29, 26, 26);
     background-color:rgb(173, 6, 6);
     z-index: 1111;
     transition:cubic-bezier(0.19, 1, 0.22, 1) .6s;
-} */
+}
 canvas{
     position: absolute;
     z-index: 1;
