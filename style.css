@@ -198,7 +198,7 @@ a:hover #line1{
 
 #wrapper p{
     margin-top: 30px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 100%;
     width: 40%;
     border-left: 4px solid red;
@@ -206,7 +206,7 @@ a:hover #line1{
 }
 #wrapper h5{
     margin-top: 30px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 100%;
     width: 38%;
     font-weight: 100;
@@ -215,11 +215,11 @@ a:hover #line1{
 #wrapper button{
     margin-top: 30px;
     font-family: blod;
-    padding: 15px 20px;
+    padding: 15px 15px;
     color: #fff;
     background-color: red;
     letter-spacing: 2px;
-    font-size: 18px;
+    font-size: 15px;
     border: none;
 }
 #wrapper #btn2{
@@ -296,7 +296,7 @@ a:hover #line1{
     text-transform: uppercase;
     font-weight: 100;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
 
 }
   #page1 .block .img img{
@@ -339,14 +339,14 @@ a:hover #line1{
     
 }
 #p2-part1 h3{
-    font-size: 2vw;
+    font-size: 1.7vw;
     font-weight: 100;
 }
 #p2-part1 p{
     margin-top: 20px;
     padding-left: 20px;
     width: 65%;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 100;
     border-left: 4px solid  rgb(213, 10, 10);
 }
@@ -373,10 +373,12 @@ a:hover #line1{
 #p2-part1 #p2-bottom button{
    color: #fff;
    background-color: red;
-   font-size: 20px;
-   padding: 15px 20px;
+   font-size: 15px;
+   padding: 12px 18px;
    margin-top: 20px;
    font-family: blood;
+   border: none;
+
 }
 #p2-part1 h1{
     font-family: blood;
